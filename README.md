@@ -1,8 +1,4 @@
-Great! Here's the updated README for your repository:
-
----
-
-# SMM Provider Integrated Telegram Bot
+# SMM Integrated Telegram Bot
 
 This repository contains the source code for an integrated Telegram bot for social media marketing (SMM) purposes.
 
@@ -52,4 +48,10 @@ This bot integrates with an SMM API to provide its services. The `Api` class han
 
 The bot uses a database to store user information, orders, categories, and services. The database models are defined using Django's ORM.
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/deeorbeck/smmbot?tab=MIT-1-ov-file) file for details.
+
+## Access
+
+You can access the bot at [ismailov.uz](https://ismailov.uz)
